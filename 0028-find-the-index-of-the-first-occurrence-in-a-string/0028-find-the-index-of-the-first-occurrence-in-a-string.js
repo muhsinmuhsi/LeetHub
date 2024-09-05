@@ -4,6 +4,6 @@
  * @return {number}
  */
 var strStr = function(haystack, needle) {
-    let c=haystack.indexOf(needle)
-    return c;
+    return haystack.indexOf(needle)
+     
 };
