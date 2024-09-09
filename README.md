@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/muhsinmuhsi/LeetHub/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/muhsinmuhsi/LeetHub/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/muhsinmuhsi/LeetHub/tree/master/0066-plus-one) |
+| [3311-ant-on-the-boundary](https://github.com/muhsinmuhsi/LeetHub/tree/master/3311-ant-on-the-boundary) |
 ## Two Pointers
 |  |
 | ------- |
@@ -37,4 +38,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/muhsinmuhsi/LeetHub/tree/master/0066-plus-one) |
+## Simulation
+|  |
+| ------- |
+| [3311-ant-on-the-boundary](https://github.com/muhsinmuhsi/LeetHub/tree/master/3311-ant-on-the-boundary) |
+## Prefix Sum
+|  |
+| ------- |
+| [3311-ant-on-the-boundary](https://github.com/muhsinmuhsi/LeetHub/tree/master/3311-ant-on-the-boundary) |
 <!---LeetCode Topics End-->
