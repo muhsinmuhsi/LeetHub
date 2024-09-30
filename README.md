@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/muhsinmuhsi/LeetHub/tree/master/0066-plus-one) |
+| [0367-valid-perfect-square](https://github.com/muhsinmuhsi/LeetHub/tree/master/0367-valid-perfect-square) |
 | [0507-perfect-number](https://github.com/muhsinmuhsi/LeetHub/tree/master/0507-perfect-number) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/muhsinmuhsi/LeetHub/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2083-three-divisors](https://github.com/muhsinmuhsi/LeetHub/tree/master/2083-three-divisors) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/muhsinmuhsi/LeetHub/tree/master/0035-search-insert-position) |
+| [0367-valid-perfect-square](https://github.com/muhsinmuhsi/LeetHub/tree/master/0367-valid-perfect-square) |
 ## Bit Manipulation
 |  |
 | ------- |
