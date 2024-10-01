@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/muhsinmuhsi/LeetHub/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/muhsinmuhsi/LeetHub/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/muhsinmuhsi/LeetHub/tree/master/0136-single-number) |
+| [1944-truncate-sentence](https://github.com/muhsinmuhsi/LeetHub/tree/master/1944-truncate-sentence) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/muhsinmuhsi/LeetHub/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/muhsinmuhsi/LeetHub/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [3311-ant-on-the-boundary](https://github.com/muhsinmuhsi/LeetHub/tree/master/3311-ant-on-the-boundary) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/muhsinmuhsi/LeetHub/tree/master/0058-length-of-last-word) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/muhsinmuhsi/LeetHub/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1205-defanging-an-ip-address](https://github.com/muhsinmuhsi/LeetHub/tree/master/1205-defanging-an-ip-address) |
+| [1944-truncate-sentence](https://github.com/muhsinmuhsi/LeetHub/tree/master/1944-truncate-sentence) |
 ## Stack
 |  |
 | ------- |
