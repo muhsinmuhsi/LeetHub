@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/muhsinmuhsi/LeetHub/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/muhsinmuhsi/LeetHub/tree/master/0070-climbing-stairs) |
 | [0367-valid-perfect-square](https://github.com/muhsinmuhsi/LeetHub/tree/master/0367-valid-perfect-square) |
 | [0507-perfect-number](https://github.com/muhsinmuhsi/LeetHub/tree/master/0507-perfect-number) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/muhsinmuhsi/LeetHub/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -103,4 +104,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/muhsinmuhsi/LeetHub/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/muhsinmuhsi/LeetHub/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/muhsinmuhsi/LeetHub/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
