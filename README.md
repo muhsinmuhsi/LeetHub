@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2106-find-greatest-common-divisor-of-array](https://github.com/muhsinmuhsi/LeetHub/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/muhsinmuhsi/LeetHub/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/muhsinmuhsi/LeetHub/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
+| [2756-buy-two-chocolates](https://github.com/muhsinmuhsi/LeetHub/tree/master/2756-buy-two-chocolates) |
 | [3311-ant-on-the-boundary](https://github.com/muhsinmuhsi/LeetHub/tree/master/3311-ant-on-the-boundary) |
 ## Two Pointers
 |  |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/muhsinmuhsi/LeetHub/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2756-buy-two-chocolates](https://github.com/muhsinmuhsi/LeetHub/tree/master/2756-buy-two-chocolates) |
 ## Matrix
 |  |
 | ------- |
@@ -115,4 +117,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/muhsinmuhsi/LeetHub/tree/master/0070-climbing-stairs) |
+## Greedy
+|  |
+| ------- |
+| [2756-buy-two-chocolates](https://github.com/muhsinmuhsi/LeetHub/tree/master/2756-buy-two-chocolates) |
 <!---LeetCode Topics End-->
