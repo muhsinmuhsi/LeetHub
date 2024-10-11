@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/muhsinmuhsi/LeetHub/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/muhsinmuhsi/LeetHub/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/muhsinmuhsi/LeetHub/tree/master/0136-single-number) |
+| [0792-binary-search](https://github.com/muhsinmuhsi/LeetHub/tree/master/0792-binary-search) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/muhsinmuhsi/LeetHub/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1944-truncate-sentence](https://github.com/muhsinmuhsi/LeetHub/tree/master/1944-truncate-sentence) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/muhsinmuhsi/LeetHub/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/muhsinmuhsi/LeetHub/tree/master/0035-search-insert-position) |
 | [0367-valid-perfect-square](https://github.com/muhsinmuhsi/LeetHub/tree/master/0367-valid-perfect-square) |
+| [0792-binary-search](https://github.com/muhsinmuhsi/LeetHub/tree/master/0792-binary-search) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/muhsinmuhsi/LeetHub/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 ## Bit Manipulation
 |  |
