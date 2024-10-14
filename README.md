@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/muhsinmuhsi/LeetHub/tree/master/0136-single-number) |
 | [0792-binary-search](https://github.com/muhsinmuhsi/LeetHub/tree/master/0792-binary-search) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/muhsinmuhsi/LeetHub/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [1899-count-items-matching-a-rule](https://github.com/muhsinmuhsi/LeetHub/tree/master/1899-count-items-matching-a-rule) |
 | [1944-truncate-sentence](https://github.com/muhsinmuhsi/LeetHub/tree/master/1944-truncate-sentence) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/muhsinmuhsi/LeetHub/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/muhsinmuhsi/LeetHub/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/muhsinmuhsi/LeetHub/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1205-defanging-an-ip-address](https://github.com/muhsinmuhsi/LeetHub/tree/master/1205-defanging-an-ip-address) |
 | [1797-goal-parser-interpretation](https://github.com/muhsinmuhsi/LeetHub/tree/master/1797-goal-parser-interpretation) |
+| [1899-count-items-matching-a-rule](https://github.com/muhsinmuhsi/LeetHub/tree/master/1899-count-items-matching-a-rule) |
 | [1944-truncate-sentence](https://github.com/muhsinmuhsi/LeetHub/tree/master/1944-truncate-sentence) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/muhsinmuhsi/LeetHub/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Stack
