@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/muhsinmuhsi/LeetHub/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/muhsinmuhsi/LeetHub/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2756-buy-two-chocolates](https://github.com/muhsinmuhsi/LeetHub/tree/master/2756-buy-two-chocolates) |
+| [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/muhsinmuhsi/LeetHub/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3194-find-words-containing-character](https://github.com/muhsinmuhsi/LeetHub/tree/master/3194-find-words-containing-character) |
 | [3311-ant-on-the-boundary](https://github.com/muhsinmuhsi/LeetHub/tree/master/3311-ant-on-the-boundary) |
 | [3533-snake-in-matrix](https://github.com/muhsinmuhsi/LeetHub/tree/master/3533-snake-in-matrix) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1899-count-items-matching-a-rule](https://github.com/muhsinmuhsi/LeetHub/tree/master/1899-count-items-matching-a-rule) |
 | [1944-truncate-sentence](https://github.com/muhsinmuhsi/LeetHub/tree/master/1944-truncate-sentence) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/muhsinmuhsi/LeetHub/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/muhsinmuhsi/LeetHub/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3194-find-words-containing-character](https://github.com/muhsinmuhsi/LeetHub/tree/master/3194-find-words-containing-character) |
 | [3533-snake-in-matrix](https://github.com/muhsinmuhsi/LeetHub/tree/master/3533-snake-in-matrix) |
 ## Stack
