@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/muhsinmuhsi/LeetHub/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/muhsinmuhsi/LeetHub/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/muhsinmuhsi/LeetHub/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/muhsinmuhsi/LeetHub/tree/master/0268-missing-number) |
 | [0500-keyboard-row](https://github.com/muhsinmuhsi/LeetHub/tree/master/0500-keyboard-row) |
 | [0792-binary-search](https://github.com/muhsinmuhsi/LeetHub/tree/master/0792-binary-search) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/muhsinmuhsi/LeetHub/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/muhsinmuhsi/LeetHub/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/muhsinmuhsi/LeetHub/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/muhsinmuhsi/LeetHub/tree/master/0268-missing-number) |
 | [0500-keyboard-row](https://github.com/muhsinmuhsi/LeetHub/tree/master/0500-keyboard-row) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/muhsinmuhsi/LeetHub/tree/master/0920-uncommon-words-from-two-sentences) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/muhsinmuhsi/LeetHub/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/muhsinmuhsi/LeetHub/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/muhsinmuhsi/LeetHub/tree/master/0070-climbing-stairs) |
+| [0268-missing-number](https://github.com/muhsinmuhsi/LeetHub/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/muhsinmuhsi/LeetHub/tree/master/0367-valid-perfect-square) |
 | [0507-perfect-number](https://github.com/muhsinmuhsi/LeetHub/tree/master/0507-perfect-number) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/muhsinmuhsi/LeetHub/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -102,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/muhsinmuhsi/LeetHub/tree/master/0035-search-insert-position) |
+| [0268-missing-number](https://github.com/muhsinmuhsi/LeetHub/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/muhsinmuhsi/LeetHub/tree/master/0367-valid-perfect-square) |
 | [0792-binary-search](https://github.com/muhsinmuhsi/LeetHub/tree/master/0792-binary-search) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/muhsinmuhsi/LeetHub/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -109,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/muhsinmuhsi/LeetHub/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/muhsinmuhsi/LeetHub/tree/master/0268-missing-number) |
 ## Enumeration
 |  |
 | ------- |
@@ -129,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/muhsinmuhsi/LeetHub/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/muhsinmuhsi/LeetHub/tree/master/0268-missing-number) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/muhsinmuhsi/LeetHub/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2756-buy-two-chocolates](https://github.com/muhsinmuhsi/LeetHub/tree/master/2756-buy-two-chocolates) |
 ## Matrix
