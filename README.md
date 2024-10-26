@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2106-find-greatest-common-divisor-of-array](https://github.com/muhsinmuhsi/LeetHub/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/muhsinmuhsi/LeetHub/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/muhsinmuhsi/LeetHub/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
+| [2654-count-the-number-of-vowel-strings-in-range](https://github.com/muhsinmuhsi/LeetHub/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2727-number-of-senior-citizens](https://github.com/muhsinmuhsi/LeetHub/tree/master/2727-number-of-senior-citizens) |
 | [2756-buy-two-chocolates](https://github.com/muhsinmuhsi/LeetHub/tree/master/2756-buy-two-chocolates) |
 | [2881-split-strings-by-separator](https://github.com/muhsinmuhsi/LeetHub/tree/master/2881-split-strings-by-separator) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1797-goal-parser-interpretation](https://github.com/muhsinmuhsi/LeetHub/tree/master/1797-goal-parser-interpretation) |
 | [1899-count-items-matching-a-rule](https://github.com/muhsinmuhsi/LeetHub/tree/master/1899-count-items-matching-a-rule) |
 | [1944-truncate-sentence](https://github.com/muhsinmuhsi/LeetHub/tree/master/1944-truncate-sentence) |
+| [2654-count-the-number-of-vowel-strings-in-range](https://github.com/muhsinmuhsi/LeetHub/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2727-number-of-senior-citizens](https://github.com/muhsinmuhsi/LeetHub/tree/master/2727-number-of-senior-citizens) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/muhsinmuhsi/LeetHub/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2881-split-strings-by-separator](https://github.com/muhsinmuhsi/LeetHub/tree/master/2881-split-strings-by-separator) |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/muhsinmuhsi/LeetHub/tree/master/0169-majority-element) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/muhsinmuhsi/LeetHub/tree/master/0920-uncommon-words-from-two-sentences) |
+| [2654-count-the-number-of-vowel-strings-in-range](https://github.com/muhsinmuhsi/LeetHub/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 ## Sorting
 |  |
 | ------- |
