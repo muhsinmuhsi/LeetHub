@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/muhsinmuhsi/LeetHub/tree/master/0268-missing-number) |
 | [0500-keyboard-row](https://github.com/muhsinmuhsi/LeetHub/tree/master/0500-keyboard-row) |
 | [0792-binary-search](https://github.com/muhsinmuhsi/LeetHub/tree/master/0792-binary-search) |
+| [1044-find-common-characters](https://github.com/muhsinmuhsi/LeetHub/tree/master/1044-find-common-characters) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/muhsinmuhsi/LeetHub/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1899-count-items-matching-a-rule](https://github.com/muhsinmuhsi/LeetHub/tree/master/1899-count-items-matching-a-rule) |
 | [1944-truncate-sentence](https://github.com/muhsinmuhsi/LeetHub/tree/master/1944-truncate-sentence) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/muhsinmuhsi/LeetHub/tree/master/0268-missing-number) |
 | [0500-keyboard-row](https://github.com/muhsinmuhsi/LeetHub/tree/master/0500-keyboard-row) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/muhsinmuhsi/LeetHub/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1044-find-common-characters](https://github.com/muhsinmuhsi/LeetHub/tree/master/1044-find-common-characters) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/muhsinmuhsi/LeetHub/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/muhsinmuhsi/LeetHub/tree/master/2847-find-maximum-number-of-string-pairs) |
 ## String
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/muhsinmuhsi/LeetHub/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/muhsinmuhsi/LeetHub/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/muhsinmuhsi/LeetHub/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1044-find-common-characters](https://github.com/muhsinmuhsi/LeetHub/tree/master/1044-find-common-characters) |
 | [1205-defanging-an-ip-address](https://github.com/muhsinmuhsi/LeetHub/tree/master/1205-defanging-an-ip-address) |
 | [1797-goal-parser-interpretation](https://github.com/muhsinmuhsi/LeetHub/tree/master/1797-goal-parser-interpretation) |
 | [1899-count-items-matching-a-rule](https://github.com/muhsinmuhsi/LeetHub/tree/master/1899-count-items-matching-a-rule) |
