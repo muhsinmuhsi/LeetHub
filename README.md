@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3194-find-words-containing-character](https://github.com/muhsinmuhsi/LeetHub/tree/master/3194-find-words-containing-character) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/muhsinmuhsi/LeetHub/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3533-snake-in-matrix](https://github.com/muhsinmuhsi/LeetHub/tree/master/3533-snake-in-matrix) |
+| [3567-convert-date-to-binary](https://github.com/muhsinmuhsi/LeetHub/tree/master/3567-convert-date-to-binary) |
 ## Stack
 |  |
 | ------- |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2630-alternating-digit-sum](https://github.com/muhsinmuhsi/LeetHub/tree/master/2630-alternating-digit-sum) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/muhsinmuhsi/LeetHub/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3371-harshad-number](https://github.com/muhsinmuhsi/LeetHub/tree/master/3371-harshad-number) |
+| [3567-convert-date-to-binary](https://github.com/muhsinmuhsi/LeetHub/tree/master/3567-convert-date-to-binary) |
 ## Simulation
 |  |
 | ------- |
