@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/muhsinmuhsi/LeetHub/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/muhsinmuhsi/LeetHub/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/muhsinmuhsi/LeetHub/tree/master/0035-search-insert-position) |
+| [0049-group-anagrams](https://github.com/muhsinmuhsi/LeetHub/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/muhsinmuhsi/LeetHub/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/muhsinmuhsi/LeetHub/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/muhsinmuhsi/LeetHub/tree/master/0169-majority-element) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/muhsinmuhsi/LeetHub/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/muhsinmuhsi/LeetHub/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/muhsinmuhsi/LeetHub/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/muhsinmuhsi/LeetHub/tree/master/0268-missing-number) |
 | [0500-keyboard-row](https://github.com/muhsinmuhsi/LeetHub/tree/master/0500-keyboard-row) |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/muhsinmuhsi/LeetHub/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/muhsinmuhsi/LeetHub/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/muhsinmuhsi/LeetHub/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/muhsinmuhsi/LeetHub/tree/master/0058-length-of-last-word) |
 | [0500-keyboard-row](https://github.com/muhsinmuhsi/LeetHub/tree/master/0500-keyboard-row) |
 | [0520-detect-capital](https://github.com/muhsinmuhsi/LeetHub/tree/master/0520-detect-capital) |
@@ -160,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/muhsinmuhsi/LeetHub/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/muhsinmuhsi/LeetHub/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/muhsinmuhsi/LeetHub/tree/master/0268-missing-number) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/muhsinmuhsi/LeetHub/tree/master/2274-keep-multiplying-found-values-by-two) |
