@@ -4,9 +4,7 @@
  */
 var firstPalindrome = function(words) {
      for(let i=0;i<words.length;i++){
-    let revers=words[i].split('').reverse().join('')
-        if(words[i]===revers){
-            
+        if(words[i]===words[i].split('').reverse().join('')){
           return words[i]
         }
   }
