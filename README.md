@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1044-find-common-characters](https://github.com/muhsinmuhsi/LeetHub/tree/master/1044-find-common-characters) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/muhsinmuhsi/LeetHub/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1524-string-matching-in-an-array](https://github.com/muhsinmuhsi/LeetHub/tree/master/1524-string-matching-in-an-array) |
+| [1635-number-of-good-pairs](https://github.com/muhsinmuhsi/LeetHub/tree/master/1635-number-of-good-pairs) |
 | [1899-count-items-matching-a-rule](https://github.com/muhsinmuhsi/LeetHub/tree/master/1899-count-items-matching-a-rule) |
 | [1944-truncate-sentence](https://github.com/muhsinmuhsi/LeetHub/tree/master/1944-truncate-sentence) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/muhsinmuhsi/LeetHub/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/muhsinmuhsi/LeetHub/tree/master/0500-keyboard-row) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/muhsinmuhsi/LeetHub/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1044-find-common-characters](https://github.com/muhsinmuhsi/LeetHub/tree/master/1044-find-common-characters) |
+| [1635-number-of-good-pairs](https://github.com/muhsinmuhsi/LeetHub/tree/master/1635-number-of-good-pairs) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/muhsinmuhsi/LeetHub/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2502-sort-the-people](https://github.com/muhsinmuhsi/LeetHub/tree/master/2502-sort-the-people) |
 | [2594-count-pairs-of-similar-strings](https://github.com/muhsinmuhsi/LeetHub/tree/master/2594-count-pairs-of-similar-strings) |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/muhsinmuhsi/LeetHub/tree/master/0367-valid-perfect-square) |
 | [0507-perfect-number](https://github.com/muhsinmuhsi/LeetHub/tree/master/0507-perfect-number) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/muhsinmuhsi/LeetHub/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1635-number-of-good-pairs](https://github.com/muhsinmuhsi/LeetHub/tree/master/1635-number-of-good-pairs) |
 | [2083-three-divisors](https://github.com/muhsinmuhsi/LeetHub/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/muhsinmuhsi/LeetHub/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2507-number-of-common-factors](https://github.com/muhsinmuhsi/LeetHub/tree/master/2507-number-of-common-factors) |
@@ -168,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/muhsinmuhsi/LeetHub/tree/master/0169-majority-element) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/muhsinmuhsi/LeetHub/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1635-number-of-good-pairs](https://github.com/muhsinmuhsi/LeetHub/tree/master/1635-number-of-good-pairs) |
 | [2594-count-pairs-of-similar-strings](https://github.com/muhsinmuhsi/LeetHub/tree/master/2594-count-pairs-of-similar-strings) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/muhsinmuhsi/LeetHub/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 ## Sorting
