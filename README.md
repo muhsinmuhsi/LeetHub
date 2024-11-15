@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/muhsinmuhsi/LeetHub/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1524-string-matching-in-an-array](https://github.com/muhsinmuhsi/LeetHub/tree/master/1524-string-matching-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/muhsinmuhsi/LeetHub/tree/master/1635-number-of-good-pairs) |
+| [1781-check-if-two-string-arrays-are-equivalent](https://github.com/muhsinmuhsi/LeetHub/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1899-count-items-matching-a-rule](https://github.com/muhsinmuhsi/LeetHub/tree/master/1899-count-items-matching-a-rule) |
 | [1944-truncate-sentence](https://github.com/muhsinmuhsi/LeetHub/tree/master/1944-truncate-sentence) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/muhsinmuhsi/LeetHub/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1044-find-common-characters](https://github.com/muhsinmuhsi/LeetHub/tree/master/1044-find-common-characters) |
 | [1205-defanging-an-ip-address](https://github.com/muhsinmuhsi/LeetHub/tree/master/1205-defanging-an-ip-address) |
 | [1524-string-matching-in-an-array](https://github.com/muhsinmuhsi/LeetHub/tree/master/1524-string-matching-in-an-array) |
+| [1781-check-if-two-string-arrays-are-equivalent](https://github.com/muhsinmuhsi/LeetHub/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1797-goal-parser-interpretation](https://github.com/muhsinmuhsi/LeetHub/tree/master/1797-goal-parser-interpretation) |
 | [1899-count-items-matching-a-rule](https://github.com/muhsinmuhsi/LeetHub/tree/master/1899-count-items-matching-a-rule) |
 | [1944-truncate-sentence](https://github.com/muhsinmuhsi/LeetHub/tree/master/1944-truncate-sentence) |
