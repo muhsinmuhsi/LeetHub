@@ -4,9 +4,9 @@
  */
 var mostWordsFound = function(sentences) {
     let maximum=sentences[0].split(' ').length
-for(let x of sentences){
-    if(x.split(' ').length>maximum){
-        maximum=x.split(' ').length
+for(let x=0;x<sentences.length;x++){
+    if(sentences[x].split(' ').length>maximum){
+        maximum=sentences[x].split(' ').length
     }
 }
 return maximum
