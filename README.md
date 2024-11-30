@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/muhsinmuhsi/LeetHub/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3311-ant-on-the-boundary](https://github.com/muhsinmuhsi/LeetHub/tree/master/3311-ant-on-the-boundary) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/muhsinmuhsi/LeetHub/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
+| [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/muhsinmuhsi/LeetHub/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3533-snake-in-matrix](https://github.com/muhsinmuhsi/LeetHub/tree/master/3533-snake-in-matrix) |
 ## Two Pointers
 |  |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2630-alternating-digit-sum](https://github.com/muhsinmuhsi/LeetHub/tree/master/2630-alternating-digit-sum) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/muhsinmuhsi/LeetHub/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3371-harshad-number](https://github.com/muhsinmuhsi/LeetHub/tree/master/3371-harshad-number) |
+| [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/muhsinmuhsi/LeetHub/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3567-convert-date-to-binary](https://github.com/muhsinmuhsi/LeetHub/tree/master/3567-convert-date-to-binary) |
 ## Simulation
 |  |
