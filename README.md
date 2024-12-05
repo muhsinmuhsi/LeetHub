@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/muhsinmuhsi/LeetHub/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/muhsinmuhsi/LeetHub/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/muhsinmuhsi/LeetHub/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/muhsinmuhsi/LeetHub/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/muhsinmuhsi/LeetHub/tree/master/0268-missing-number) |
 | [0500-keyboard-row](https://github.com/muhsinmuhsi/LeetHub/tree/master/0500-keyboard-row) |
 | [0822-unique-morse-code-words](https://github.com/muhsinmuhsi/LeetHub/tree/master/0822-unique-morse-code-words) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/muhsinmuhsi/LeetHub/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/muhsinmuhsi/LeetHub/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/muhsinmuhsi/LeetHub/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/muhsinmuhsi/LeetHub/tree/master/0242-valid-anagram) |
 | [0500-keyboard-row](https://github.com/muhsinmuhsi/LeetHub/tree/master/0500-keyboard-row) |
 | [0520-detect-capital](https://github.com/muhsinmuhsi/LeetHub/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/muhsinmuhsi/LeetHub/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/muhsinmuhsi/LeetHub/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/muhsinmuhsi/LeetHub/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/muhsinmuhsi/LeetHub/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/muhsinmuhsi/LeetHub/tree/master/0268-missing-number) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/muhsinmuhsi/LeetHub/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2502-sort-the-people](https://github.com/muhsinmuhsi/LeetHub/tree/master/2502-sort-the-people) |
