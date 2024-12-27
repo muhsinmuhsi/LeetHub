@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/muhsinmuhsi/LeetHub/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/muhsinmuhsi/LeetHub/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/muhsinmuhsi/LeetHub/tree/master/2341-count-prefixes-of-a-given-string) |
+| [2476-check-distances-between-same-letters](https://github.com/muhsinmuhsi/LeetHub/tree/master/2476-check-distances-between-same-letters) |
 | [2502-sort-the-people](https://github.com/muhsinmuhsi/LeetHub/tree/master/2502-sort-the-people) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/muhsinmuhsi/LeetHub/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2589-maximum-value-of-a-string-in-an-array](https://github.com/muhsinmuhsi/LeetHub/tree/master/2589-maximum-value-of-a-string-in-an-array) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/muhsinmuhsi/LeetHub/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/muhsinmuhsi/LeetHub/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/muhsinmuhsi/LeetHub/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2476-check-distances-between-same-letters](https://github.com/muhsinmuhsi/LeetHub/tree/master/2476-check-distances-between-same-letters) |
 | [2502-sort-the-people](https://github.com/muhsinmuhsi/LeetHub/tree/master/2502-sort-the-people) |
 | [2594-count-pairs-of-similar-strings](https://github.com/muhsinmuhsi/LeetHub/tree/master/2594-count-pairs-of-similar-strings) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/muhsinmuhsi/LeetHub/tree/master/2847-find-maximum-number-of-string-pairs) |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/muhsinmuhsi/LeetHub/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/muhsinmuhsi/LeetHub/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/muhsinmuhsi/LeetHub/tree/master/2341-count-prefixes-of-a-given-string) |
+| [2476-check-distances-between-same-letters](https://github.com/muhsinmuhsi/LeetHub/tree/master/2476-check-distances-between-same-letters) |
 | [2502-sort-the-people](https://github.com/muhsinmuhsi/LeetHub/tree/master/2502-sort-the-people) |
 | [2589-maximum-value-of-a-string-in-an-array](https://github.com/muhsinmuhsi/LeetHub/tree/master/2589-maximum-value-of-a-string-in-an-array) |
 | [2594-count-pairs-of-similar-strings](https://github.com/muhsinmuhsi/LeetHub/tree/master/2594-count-pairs-of-similar-strings) |
