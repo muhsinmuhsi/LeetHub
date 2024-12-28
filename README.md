@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1547-destination-city](https://github.com/muhsinmuhsi/LeetHub/tree/master/1547-destination-city) |
 | [1635-number-of-good-pairs](https://github.com/muhsinmuhsi/LeetHub/tree/master/1635-number-of-good-pairs) |
 | [1651-shuffle-string](https://github.com/muhsinmuhsi/LeetHub/tree/master/1651-shuffle-string) |
+| [1720-crawler-log-folder](https://github.com/muhsinmuhsi/LeetHub/tree/master/1720-crawler-log-folder) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/muhsinmuhsi/LeetHub/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/muhsinmuhsi/LeetHub/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1899-count-items-matching-a-rule](https://github.com/muhsinmuhsi/LeetHub/tree/master/1899-count-items-matching-a-rule) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-string-matching-in-an-array](https://github.com/muhsinmuhsi/LeetHub/tree/master/1524-string-matching-in-an-array) |
 | [1547-destination-city](https://github.com/muhsinmuhsi/LeetHub/tree/master/1547-destination-city) |
 | [1651-shuffle-string](https://github.com/muhsinmuhsi/LeetHub/tree/master/1651-shuffle-string) |
+| [1720-crawler-log-folder](https://github.com/muhsinmuhsi/LeetHub/tree/master/1720-crawler-log-folder) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/muhsinmuhsi/LeetHub/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/muhsinmuhsi/LeetHub/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1797-goal-parser-interpretation](https://github.com/muhsinmuhsi/LeetHub/tree/master/1797-goal-parser-interpretation) |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/muhsinmuhsi/LeetHub/tree/master/0020-valid-parentheses) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/muhsinmuhsi/LeetHub/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1720-crawler-log-folder](https://github.com/muhsinmuhsi/LeetHub/tree/master/1720-crawler-log-folder) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/muhsinmuhsi/LeetHub/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## String Matching
 |  |
