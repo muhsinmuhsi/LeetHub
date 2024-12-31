@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/muhsinmuhsi/LeetHub/tree/master/0500-keyboard-row) |
 | [0792-binary-search](https://github.com/muhsinmuhsi/LeetHub/tree/master/0792-binary-search) |
 | [0822-unique-morse-code-words](https://github.com/muhsinmuhsi/LeetHub/tree/master/0822-unique-morse-code-words) |
+| [0841-shortest-distance-to-a-character](https://github.com/muhsinmuhsi/LeetHub/tree/master/0841-shortest-distance-to-a-character) |
 | [1044-find-common-characters](https://github.com/muhsinmuhsi/LeetHub/tree/master/1044-find-common-characters) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/muhsinmuhsi/LeetHub/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1524-string-matching-in-an-array](https://github.com/muhsinmuhsi/LeetHub/tree/master/1524-string-matching-in-an-array) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/muhsinmuhsi/LeetHub/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/muhsinmuhsi/LeetHub/tree/master/0283-move-zeroes) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/muhsinmuhsi/LeetHub/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0841-shortest-distance-to-a-character](https://github.com/muhsinmuhsi/LeetHub/tree/master/0841-shortest-distance-to-a-character) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/muhsinmuhsi/LeetHub/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/muhsinmuhsi/LeetHub/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Hash Table
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/muhsinmuhsi/LeetHub/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/muhsinmuhsi/LeetHub/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0822-unique-morse-code-words](https://github.com/muhsinmuhsi/LeetHub/tree/master/0822-unique-morse-code-words) |
+| [0841-shortest-distance-to-a-character](https://github.com/muhsinmuhsi/LeetHub/tree/master/0841-shortest-distance-to-a-character) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/muhsinmuhsi/LeetHub/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/muhsinmuhsi/LeetHub/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1044-find-common-characters](https://github.com/muhsinmuhsi/LeetHub/tree/master/1044-find-common-characters) |
