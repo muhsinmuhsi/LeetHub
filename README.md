@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0822-unique-morse-code-words](https://github.com/muhsinmuhsi/LeetHub/tree/master/0822-unique-morse-code-words) |
 | [0837-most-common-word](https://github.com/muhsinmuhsi/LeetHub/tree/master/0837-most-common-word) |
 | [0841-shortest-distance-to-a-character](https://github.com/muhsinmuhsi/LeetHub/tree/master/0841-shortest-distance-to-a-character) |
+| [0981-delete-columns-to-make-sorted](https://github.com/muhsinmuhsi/LeetHub/tree/master/0981-delete-columns-to-make-sorted) |
 | [1044-find-common-characters](https://github.com/muhsinmuhsi/LeetHub/tree/master/1044-find-common-characters) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/muhsinmuhsi/LeetHub/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1524-string-matching-in-an-array](https://github.com/muhsinmuhsi/LeetHub/tree/master/1524-string-matching-in-an-array) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0841-shortest-distance-to-a-character](https://github.com/muhsinmuhsi/LeetHub/tree/master/0841-shortest-distance-to-a-character) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/muhsinmuhsi/LeetHub/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/muhsinmuhsi/LeetHub/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [0981-delete-columns-to-make-sorted](https://github.com/muhsinmuhsi/LeetHub/tree/master/0981-delete-columns-to-make-sorted) |
 | [1044-find-common-characters](https://github.com/muhsinmuhsi/LeetHub/tree/master/1044-find-common-characters) |
 | [1205-defanging-an-ip-address](https://github.com/muhsinmuhsi/LeetHub/tree/master/1205-defanging-an-ip-address) |
 | [1524-string-matching-in-an-array](https://github.com/muhsinmuhsi/LeetHub/tree/master/1524-string-matching-in-an-array) |
