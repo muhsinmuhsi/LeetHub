@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/muhsinmuhsi/LeetHub/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3533-snake-in-matrix](https://github.com/muhsinmuhsi/LeetHub/tree/master/3533-snake-in-matrix) |
 | [3567-convert-date-to-binary](https://github.com/muhsinmuhsi/LeetHub/tree/master/3567-convert-date-to-binary) |
+| [3636-check-balanced-string](https://github.com/muhsinmuhsi/LeetHub/tree/master/3636-check-balanced-string) |
 ## Stack
 |  |
 | ------- |
