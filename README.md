@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3194-find-words-containing-character](https://github.com/muhsinmuhsi/LeetHub/tree/master/3194-find-words-containing-character) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/muhsinmuhsi/LeetHub/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3533-snake-in-matrix](https://github.com/muhsinmuhsi/LeetHub/tree/master/3533-snake-in-matrix) |
+| [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/muhsinmuhsi/LeetHub/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 | [3567-convert-date-to-binary](https://github.com/muhsinmuhsi/LeetHub/tree/master/3567-convert-date-to-binary) |
 | [3636-check-balanced-string](https://github.com/muhsinmuhsi/LeetHub/tree/master/3636-check-balanced-string) |
 ## Stack
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/muhsinmuhsi/LeetHub/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3371-harshad-number](https://github.com/muhsinmuhsi/LeetHub/tree/master/3371-harshad-number) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/muhsinmuhsi/LeetHub/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/muhsinmuhsi/LeetHub/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 | [3567-convert-date-to-binary](https://github.com/muhsinmuhsi/LeetHub/tree/master/3567-convert-date-to-binary) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/muhsinmuhsi/LeetHub/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 ## Simulation
