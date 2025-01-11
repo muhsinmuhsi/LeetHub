@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/muhsinmuhsi/LeetHub/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3194-find-words-containing-character](https://github.com/muhsinmuhsi/LeetHub/tree/master/3194-find-words-containing-character) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/muhsinmuhsi/LeetHub/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3447-clear-digits](https://github.com/muhsinmuhsi/LeetHub/tree/master/3447-clear-digits) |
 | [3533-snake-in-matrix](https://github.com/muhsinmuhsi/LeetHub/tree/master/3533-snake-in-matrix) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/muhsinmuhsi/LeetHub/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 | [3567-convert-date-to-binary](https://github.com/muhsinmuhsi/LeetHub/tree/master/3567-convert-date-to-binary) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/muhsinmuhsi/LeetHub/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1720-crawler-log-folder](https://github.com/muhsinmuhsi/LeetHub/tree/master/1720-crawler-log-folder) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/muhsinmuhsi/LeetHub/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3447-clear-digits](https://github.com/muhsinmuhsi/LeetHub/tree/master/3447-clear-digits) |
 ## String Matching
 |  |
 | ------- |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/muhsinmuhsi/LeetHub/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/muhsinmuhsi/LeetHub/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3311-ant-on-the-boundary](https://github.com/muhsinmuhsi/LeetHub/tree/master/3311-ant-on-the-boundary) |
+| [3447-clear-digits](https://github.com/muhsinmuhsi/LeetHub/tree/master/3447-clear-digits) |
 | [3533-snake-in-matrix](https://github.com/muhsinmuhsi/LeetHub/tree/master/3533-snake-in-matrix) |
 ## Prefix Sum
 |  |
