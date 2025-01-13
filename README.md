@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/muhsinmuhsi/LeetHub/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/muhsinmuhsi/LeetHub/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/muhsinmuhsi/LeetHub/tree/master/0349-intersection-of-two-arrays) |
+| [0387-first-unique-character-in-a-string](https://github.com/muhsinmuhsi/LeetHub/tree/master/0387-first-unique-character-in-a-string) |
 | [0500-keyboard-row](https://github.com/muhsinmuhsi/LeetHub/tree/master/0500-keyboard-row) |
 | [0822-unique-morse-code-words](https://github.com/muhsinmuhsi/LeetHub/tree/master/0822-unique-morse-code-words) |
 | [0837-most-common-word](https://github.com/muhsinmuhsi/LeetHub/tree/master/0837-most-common-word) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/muhsinmuhsi/LeetHub/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/muhsinmuhsi/LeetHub/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/muhsinmuhsi/LeetHub/tree/master/0345-reverse-vowels-of-a-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/muhsinmuhsi/LeetHub/tree/master/0387-first-unique-character-in-a-string) |
 | [0500-keyboard-row](https://github.com/muhsinmuhsi/LeetHub/tree/master/0500-keyboard-row) |
 | [0520-detect-capital](https://github.com/muhsinmuhsi/LeetHub/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/muhsinmuhsi/LeetHub/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/muhsinmuhsi/LeetHub/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/muhsinmuhsi/LeetHub/tree/master/0387-first-unique-character-in-a-string) |
 | [0837-most-common-word](https://github.com/muhsinmuhsi/LeetHub/tree/master/0837-most-common-word) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/muhsinmuhsi/LeetHub/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1635-number-of-good-pairs](https://github.com/muhsinmuhsi/LeetHub/tree/master/1635-number-of-good-pairs) |
@@ -298,4 +301,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/muhsinmuhsi/LeetHub/tree/master/0561-array-partition) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/muhsinmuhsi/LeetHub/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
