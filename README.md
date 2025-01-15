@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/muhsinmuhsi/LeetHub/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/muhsinmuhsi/LeetHub/tree/master/0387-first-unique-character-in-a-string) |
 | [0500-keyboard-row](https://github.com/muhsinmuhsi/LeetHub/tree/master/0500-keyboard-row) |
+| [0782-jewels-and-stones](https://github.com/muhsinmuhsi/LeetHub/tree/master/0782-jewels-and-stones) |
 | [0822-unique-morse-code-words](https://github.com/muhsinmuhsi/LeetHub/tree/master/0822-unique-morse-code-words) |
 | [0837-most-common-word](https://github.com/muhsinmuhsi/LeetHub/tree/master/0837-most-common-word) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/muhsinmuhsi/LeetHub/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/muhsinmuhsi/LeetHub/tree/master/0500-keyboard-row) |
 | [0520-detect-capital](https://github.com/muhsinmuhsi/LeetHub/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/muhsinmuhsi/LeetHub/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0782-jewels-and-stones](https://github.com/muhsinmuhsi/LeetHub/tree/master/0782-jewels-and-stones) |
 | [0822-unique-morse-code-words](https://github.com/muhsinmuhsi/LeetHub/tree/master/0822-unique-morse-code-words) |
 | [0837-most-common-word](https://github.com/muhsinmuhsi/LeetHub/tree/master/0837-most-common-word) |
 | [0841-shortest-distance-to-a-character](https://github.com/muhsinmuhsi/LeetHub/tree/master/0841-shortest-distance-to-a-character) |
