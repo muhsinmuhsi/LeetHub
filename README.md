@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0981-delete-columns-to-make-sorted](https://github.com/muhsinmuhsi/LeetHub/tree/master/0981-delete-columns-to-make-sorted) |
 | [1044-find-common-characters](https://github.com/muhsinmuhsi/LeetHub/tree/master/1044-find-common-characters) |
 | [1205-defanging-an-ip-address](https://github.com/muhsinmuhsi/LeetHub/tree/master/1205-defanging-an-ip-address) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/muhsinmuhsi/LeetHub/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1524-string-matching-in-an-array](https://github.com/muhsinmuhsi/LeetHub/tree/master/1524-string-matching-in-an-array) |
 | [1547-destination-city](https://github.com/muhsinmuhsi/LeetHub/tree/master/1547-destination-city) |
 | [1651-shuffle-string](https://github.com/muhsinmuhsi/LeetHub/tree/master/1651-shuffle-string) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/muhsinmuhsi/LeetHub/tree/master/0387-first-unique-character-in-a-string) |
 | [0837-most-common-word](https://github.com/muhsinmuhsi/LeetHub/tree/master/0837-most-common-word) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/muhsinmuhsi/LeetHub/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/muhsinmuhsi/LeetHub/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1635-number-of-good-pairs](https://github.com/muhsinmuhsi/LeetHub/tree/master/1635-number-of-good-pairs) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/muhsinmuhsi/LeetHub/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/muhsinmuhsi/LeetHub/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -285,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0561-array-partition](https://github.com/muhsinmuhsi/LeetHub/tree/master/0561-array-partition) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/muhsinmuhsi/LeetHub/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/muhsinmuhsi/LeetHub/tree/master/1341-split-a-string-in-balanced-strings) |
 | [2756-buy-two-chocolates](https://github.com/muhsinmuhsi/LeetHub/tree/master/2756-buy-two-chocolates) |
 ## Divide and Conquer
 |  |
