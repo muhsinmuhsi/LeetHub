@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/muhsinmuhsi/LeetHub/tree/master/0500-keyboard-row) |
 | [0520-detect-capital](https://github.com/muhsinmuhsi/LeetHub/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/muhsinmuhsi/LeetHub/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0657-robot-return-to-origin](https://github.com/muhsinmuhsi/LeetHub/tree/master/0657-robot-return-to-origin) |
 | [0782-jewels-and-stones](https://github.com/muhsinmuhsi/LeetHub/tree/master/0782-jewels-and-stones) |
 | [0822-unique-morse-code-words](https://github.com/muhsinmuhsi/LeetHub/tree/master/0822-unique-morse-code-words) |
 | [0837-most-common-word](https://github.com/muhsinmuhsi/LeetHub/tree/master/0837-most-common-word) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0657-robot-return-to-origin](https://github.com/muhsinmuhsi/LeetHub/tree/master/0657-robot-return-to-origin) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/muhsinmuhsi/LeetHub/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/muhsinmuhsi/LeetHub/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/muhsinmuhsi/LeetHub/tree/master/2800-minimum-string-length-after-removing-substrings) |
