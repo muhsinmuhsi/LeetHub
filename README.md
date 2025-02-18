@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/muhsinmuhsi/LeetHub/tree/master/0349-intersection-of-two-arrays) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/muhsinmuhsi/LeetHub/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0841-shortest-distance-to-a-character](https://github.com/muhsinmuhsi/LeetHub/tree/master/0841-shortest-distance-to-a-character) |
+| [0874-backspace-string-compare](https://github.com/muhsinmuhsi/LeetHub/tree/master/0874-backspace-string-compare) |
 | [0953-reverse-only-letters](https://github.com/muhsinmuhsi/LeetHub/tree/master/0953-reverse-only-letters) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/muhsinmuhsi/LeetHub/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/muhsinmuhsi/LeetHub/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0837-most-common-word](https://github.com/muhsinmuhsi/LeetHub/tree/master/0837-most-common-word) |
 | [0841-shortest-distance-to-a-character](https://github.com/muhsinmuhsi/LeetHub/tree/master/0841-shortest-distance-to-a-character) |
 | [0851-goat-latin](https://github.com/muhsinmuhsi/LeetHub/tree/master/0851-goat-latin) |
+| [0874-backspace-string-compare](https://github.com/muhsinmuhsi/LeetHub/tree/master/0874-backspace-string-compare) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/muhsinmuhsi/LeetHub/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0953-reverse-only-letters](https://github.com/muhsinmuhsi/LeetHub/tree/master/0953-reverse-only-letters) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/muhsinmuhsi/LeetHub/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/muhsinmuhsi/LeetHub/tree/master/0020-valid-parentheses) |
+| [0874-backspace-string-compare](https://github.com/muhsinmuhsi/LeetHub/tree/master/0874-backspace-string-compare) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/muhsinmuhsi/LeetHub/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/muhsinmuhsi/LeetHub/tree/master/1078-remove-outermost-parentheses) |
 | [1720-crawler-log-folder](https://github.com/muhsinmuhsi/LeetHub/tree/master/1720-crawler-log-folder) |
@@ -213,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/muhsinmuhsi/LeetHub/tree/master/0657-robot-return-to-origin) |
+| [0874-backspace-string-compare](https://github.com/muhsinmuhsi/LeetHub/tree/master/0874-backspace-string-compare) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/muhsinmuhsi/LeetHub/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/muhsinmuhsi/LeetHub/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/muhsinmuhsi/LeetHub/tree/master/2800-minimum-string-length-after-removing-substrings) |
