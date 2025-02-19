@@ -217,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/muhsinmuhsi/LeetHub/tree/master/0657-robot-return-to-origin) |
 | [0874-backspace-string-compare](https://github.com/muhsinmuhsi/LeetHub/tree/master/0874-backspace-string-compare) |
+| [1708-design-parking-system](https://github.com/muhsinmuhsi/LeetHub/tree/master/1708-design-parking-system) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/muhsinmuhsi/LeetHub/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/muhsinmuhsi/LeetHub/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/muhsinmuhsi/LeetHub/tree/master/2800-minimum-string-length-after-removing-substrings) |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0920-uncommon-words-from-two-sentences](https://github.com/muhsinmuhsi/LeetHub/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/muhsinmuhsi/LeetHub/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1635-number-of-good-pairs](https://github.com/muhsinmuhsi/LeetHub/tree/master/1635-number-of-good-pairs) |
+| [1708-design-parking-system](https://github.com/muhsinmuhsi/LeetHub/tree/master/1708-design-parking-system) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/muhsinmuhsi/LeetHub/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/muhsinmuhsi/LeetHub/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/muhsinmuhsi/LeetHub/tree/master/2190-count-common-words-with-one-occurrence) |
@@ -326,4 +328,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/muhsinmuhsi/LeetHub/tree/master/0387-first-unique-character-in-a-string) |
+## Design
+|  |
+| ------- |
+| [1708-design-parking-system](https://github.com/muhsinmuhsi/LeetHub/tree/master/1708-design-parking-system) |
 <!---LeetCode Topics End-->
