@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1078-remove-outermost-parentheses](https://github.com/muhsinmuhsi/LeetHub/tree/master/1078-remove-outermost-parentheses) |
 | [1205-defanging-an-ip-address](https://github.com/muhsinmuhsi/LeetHub/tree/master/1205-defanging-an-ip-address) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/muhsinmuhsi/LeetHub/tree/master/1341-split-a-string-in-balanced-strings) |
+| [1434-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/muhsinmuhsi/LeetHub/tree/master/1434-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1524-string-matching-in-an-array](https://github.com/muhsinmuhsi/LeetHub/tree/master/1524-string-matching-in-an-array) |
 | [1547-destination-city](https://github.com/muhsinmuhsi/LeetHub/tree/master/1547-destination-city) |
 | [1651-shuffle-string](https://github.com/muhsinmuhsi/LeetHub/tree/master/1651-shuffle-string) |
