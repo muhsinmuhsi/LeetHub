@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/muhsinmuhsi/LeetHub/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/muhsinmuhsi/LeetHub/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/muhsinmuhsi/LeetHub/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/muhsinmuhsi/LeetHub/tree/master/0389-find-the-difference) |
 | [0500-keyboard-row](https://github.com/muhsinmuhsi/LeetHub/tree/master/0500-keyboard-row) |
 | [0782-jewels-and-stones](https://github.com/muhsinmuhsi/LeetHub/tree/master/0782-jewels-and-stones) |
 | [0822-unique-morse-code-words](https://github.com/muhsinmuhsi/LeetHub/tree/master/0822-unique-morse-code-words) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/muhsinmuhsi/LeetHub/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/muhsinmuhsi/LeetHub/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/muhsinmuhsi/LeetHub/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/muhsinmuhsi/LeetHub/tree/master/0389-find-the-difference) |
 | [0500-keyboard-row](https://github.com/muhsinmuhsi/LeetHub/tree/master/0500-keyboard-row) |
 | [0520-detect-capital](https://github.com/muhsinmuhsi/LeetHub/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/muhsinmuhsi/LeetHub/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/muhsinmuhsi/LeetHub/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/muhsinmuhsi/LeetHub/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/muhsinmuhsi/LeetHub/tree/master/0389-find-the-difference) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/muhsinmuhsi/LeetHub/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2594-count-pairs-of-similar-strings](https://github.com/muhsinmuhsi/LeetHub/tree/master/2594-count-pairs-of-similar-strings) |
 ## Enumeration
@@ -286,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/muhsinmuhsi/LeetHub/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/muhsinmuhsi/LeetHub/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/muhsinmuhsi/LeetHub/tree/master/0349-intersection-of-two-arrays) |
+| [0389-find-the-difference](https://github.com/muhsinmuhsi/LeetHub/tree/master/0389-find-the-difference) |
 | [0561-array-partition](https://github.com/muhsinmuhsi/LeetHub/tree/master/0561-array-partition) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/muhsinmuhsi/LeetHub/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2502-sort-the-people](https://github.com/muhsinmuhsi/LeetHub/tree/master/2502-sort-the-people) |
