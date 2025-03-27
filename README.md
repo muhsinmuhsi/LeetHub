@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/muhsinmuhsi/LeetHub/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3533-snake-in-matrix](https://github.com/muhsinmuhsi/LeetHub/tree/master/3533-snake-in-matrix) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/muhsinmuhsi/LeetHub/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
+| [3723-sum-of-good-numbers](https://github.com/muhsinmuhsi/LeetHub/tree/master/3723-sum-of-good-numbers) |
 | [3778-transform-array-by-parity](https://github.com/muhsinmuhsi/LeetHub/tree/master/3778-transform-array-by-parity) |
 ## Two Pointers
 |  |
